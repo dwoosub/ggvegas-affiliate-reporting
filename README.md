@@ -6,12 +6,12 @@ This project builds a direct bridge between our raw data and the marketing team.
 Instead of requiring manual data pulls, this system extracts player activity, transforms it into clear KPIs, and pushes a weekly performance snapshot straight to Slack.
 
 ## The Goal & Impact
-Affiliate marketing drives a significant portion of our player base. Previously, tracking performance required manual queries or checking disparate systems.
+Affiliate marketing is an important channel for acquiring new players. Previously, tracking its performance was a manual process that required executives to log into Tableau and filter through dashboards themselves.
 
-**This project solves that by:**
-* **Centralizing Truth:** Creating a single, reliable source of truth for Affiliate vs. Organic traffic in Snowflake.
-* **Automating Insights:** Delivering a "zero-click" weekly report to stakeholders via Slack.
-* **Driving Action:** Empowering the marketing team to react faster to trends in Registrations, FTDs (First Time Deposits), and GGR (Gross Gaming Revenue).
+**This project simplifies that workflow by:**
+* **Creating a Reliable Data Source:** Establishing a clear, unified view of Affiliate vs. Organic traffic directly in Snowflake.
+* **Saving Time:** Delivering a weekly summary report directly to stakeholders in Slack, eliminating the need to log in to dashboards for a quick update.
+* **Improving Campaign Tracking:** Helping the marketing team easily monitor key metrics like Registrations, FTDs, and GGR to see which campaigns are performing well and learn from past results.
 
 ---
 
