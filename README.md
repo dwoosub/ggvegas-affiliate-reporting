@@ -2,7 +2,8 @@
 
 ### From Raw Data to Slack: Automating Weekly Performance Insights
 
-This repository hosts the end-to-end data engineering and visualization pipeline for the **GG Vegas Affiliate Program**. It automates the extraction of player activity, transforms it into actionable KPIs, and pushes a weekly snapshot directly to the `#affiliates` Slack channel.
+This project builds a direct bridge between our raw data and the marketing team.
+Instead of requiring manual data pulls, this system extracts player activity, transforms it into clear KPIs, and pushes a weekly performance snapshot straight to Slack.
 
 ## The Goal & Impact
 Affiliate marketing drives a significant portion of our player base. Previously, tracking performance required manual queries or checking disparate systems.
