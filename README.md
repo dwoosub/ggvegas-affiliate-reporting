@@ -29,7 +29,7 @@ The dashboard provides a deep dive into the 4 critical pillars of affiliate perf
 
 <img width="1024" height="569" alt="image" src="https://github.com/user-attachments/assets/cfcd5361-c2d1-4558-8f07-d6045e40be49" />
 
-*Above: The full interactive view allowing drill-downs by date and affiliate type.*
+*Above: The tableau dashboard allowing drill-downs by date and affiliate type.*
 
 ---
 
