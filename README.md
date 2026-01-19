@@ -27,7 +27,7 @@ Every Monday morning, the Push Metrics tool grabs the latest snapshot from Table
 ### 2. The Interactive Dashboard (Tableau)
 The dashboard provides a deep dive into the 4 critical pillars of affiliate performance: **Registrations**, **Active Users (AU)**, **GGR vs. Theo Win**, and **Deposits**.
 
-<img width="1024" height="569" alt="image" src="https://github.com/user-attachments/assets/cfcd5361-c2d1-4558-8f07-d6045e40be49" />
+<img width="1790" height="993" alt="image" src="https://github.com/user-attachments/assets/70f4deef-daf9-4b2d-9759-e1a3d3b90993" />
 
 *Above: The tableau dashboard allowing drill-downs by date and affiliate type.*
 
