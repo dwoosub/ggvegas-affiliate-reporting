@@ -20,7 +20,7 @@ Affiliate marketing is an important channel for acquiring new players. Previousl
 ### 1. Automated Weekly Push (Slack)
 Every Monday morning, the Push Metrics tool grabs the latest snapshot from Tableau and posts it to the `#notice-ggvegas-kpi` channel. This ensures the team starts the week with the data they need, right where they work.
 
-<img width="693" height="666" alt="image" src="https://github.com/user-attachments/assets/c26f4cb5-7cc6-413c-b891-ad4139471fee" />
+<img width="675" height="508" alt="image" src="https://github.com/user-attachments/assets/96daab17-9ddf-4e40-81e7-10773f482a38" />
 
 *Above: The automated message stakeholders receive every Monday.*
 
